@@ -29,4 +29,4 @@ ros2 launch ball_tracking_turtle go_turtle.launch.py
 ```
 
 
-![alt Turtle mimicking a Moving Ball](https://github.com/zerix-T/Ball-Tracking-Turtle/docs/turtle_follow_ball.gif)
+![alt Turtle mimicking a Moving Ball]([https://github.com/zerix-T/Ball-Tracking-Turtle/docs/turtle_follow_ball.gif](https://github.com/zerix-T/Ball-Tracking-Turtle/blob/main/docs/turtle_follow_ball.gif)https://github.com/zerix-T/Ball-Tracking-Turtle/blob/main/docs/turtle_follow_ball.gif)
